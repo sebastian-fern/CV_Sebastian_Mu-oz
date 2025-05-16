@@ -19,7 +19,7 @@
 ## 💡 Habilidades
 - **Tecnologo en asistencia administrativa**
 - **Especializacion en arduino**
-- **Mantenimiento de electronicos**
+- **Mantenimiento de disposiivos electronicos**
 
 ---
 
