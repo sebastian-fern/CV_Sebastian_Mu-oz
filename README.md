@@ -5,16 +5,16 @@
 **Profesión:** _Tecnologo en Analisis y desarrollo de sofware_
 
 ## 📞 Contacto
-- **Email:** [Sebastianfern@gmail.com](Sebastianfern@gmail.com)
+- **Email:** [Sebastianfern11@gmail.com](Sebastianfern11@gmail.com)
 
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025 - Actualidad)_
-- Puesto ocupado y descripción breve.
+- Programador en desarollo de sofwar
 
 
 ## 🎓 Educación
 ### **Sena** _(2025 - Actualidad)_
-- Título obtenido.
+- Tecnologo en analisis y desarollo de sofwar
 
 ## 💡 Habilidades
 - **Tecnologo en asistencia administrativa**
